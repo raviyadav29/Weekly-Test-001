@@ -1,0 +1,21 @@
+.footer{
+    display: flex;
+    color:black;
+}
+.foot1{
+    width: 35%;
+    box-shadow: 0 0 10px black;
+    margin-right: 5px;
+    text-align: center;
+}
+.foot2{
+    width: 25%;
+    box-shadow: 0 0 10px black;
+    margin-right: 5px;
+    text-align: center;
+}
+.foot3{
+    width: 40%;
+    box-shadow: 0 0 10px black;
+    text-align: center;
+}

@@ -1,0 +1,26 @@
+.main{
+    background-color: blue;
+    color: white;
+    display: flex;
+}
+.main01{
+    width: 33%;
+    text-align: center;
+    margin-top: 10px;
+    box-shadow: 0 0 10px black;
+    margin-right: 5px;
+}
+.main02{
+    width: 33%;
+    text-align: center;
+    margin-top: 10px;
+    box-shadow: 0 0 10px black;
+    margin-right: 5px;
+}
+.main03{
+    width: 33%;
+    text-align: center;
+    margin-top: 10px;
+    box-shadow: 0 0 10px black;
+    margin-right: 5px;
+}
